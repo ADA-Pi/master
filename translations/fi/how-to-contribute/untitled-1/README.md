@@ -10,13 +10,13 @@ Firstly, we at Armada-Alliance would like to thank you for your consideration in
 
 ## Sisällys
 
-1. What we are looking for
-2. Rules and Expectations
+1. Mitä etsimme
+2. Säännöt ja odotukset
 3. Kuinka osallistua
 4. Style Guide
 5. Yhteisö
 
-**What we are looking for**
+**Mitä etsimme**
 
 _Arvostamme kaikkea panostusta projektiimme, mutta meillä on muutamia projektiin liittyviä näkökulmia, jotka priorisoidaan ennen muita._
 
@@ -24,7 +24,7 @@ _Arvostamme kaikkea panostusta projektiimme, mutta meillä on muutamia projektii
 * Ohjeistusten kääntäminen eri kielille
 * Ohjeistusten selittäminen muille, jotka tulevat erilaisista lähtökohdista ja omaavat lähtökohtaisesti erilaisia tieto-/taitotasoja
 
-**Rules and Expectations**
+**Säännöt ja odotukset**
 
 _Koska tämä on avoin projekti, odotamme sinulta pitäytymistä muutamiin normeihin ja säännöksiin:_
 
@@ -52,5 +52,5 @@ Wherever possible, do not take these conversations to private channels, includin
 
 Attribution
 
-Tämä osallistumisohje on muunneltu lähteestä: opensource.guide
+Tämä osallistumisohje on muunneltu lähteestä: [open-source-guide](https://github.com/github/opensource.guide)
 

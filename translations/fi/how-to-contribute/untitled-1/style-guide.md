@@ -4,7 +4,7 @@ description: Materiaalin tyyliohje ohjeistusten laatimiseen.
 
 # Style Guide
 
-_**Ote GitHub Manual of Style dokumentaatiosta, jonka pohjalta tämä ohje on laadittu:**_
+_**Ote GitHub Manual of Style dokumentaatiosta, jonka pohjalta tämäkin ohje on laadittu:**_
 
 > Words are an important part of how software works. Just as we have a style guide for our code, we have a style guide for our tone and our voice. Even though there may be dozens of people creating a product, it should still sound like we speak in one consistent voice.
 > 
